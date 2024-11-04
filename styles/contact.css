@@ -65,7 +65,7 @@ p
 	font-family: 'Montserrat', sans-serif;
 	font-size: 14px;
 	line-height: 2.14;
-	font-weight: 500;
+	font-weight: bold;
 	color: #6c6a74;
 	-webkit-font-smoothing: antialiased;
 	-webkit-text-shadow: rgba(0,0,0,.01) 0 0 1px;
@@ -531,11 +531,11 @@ section
 .main_nav li.active a
 {
 	color: #FFFFFF;
-	background: #ff8a00;
+	background: #3B82F6;
 }
 .main_nav li a:hover
 {
-	background: #ff8a00;
+	background: #3B82F6;
 }
 .search_button
 {
@@ -916,7 +916,7 @@ section
 {
 	display: inline-block;
 	position: relative;
-	color: #ff8a00;
+	color: #3B82F6;
 	font-size: 12px;
 	font-weight: 600;
 }
