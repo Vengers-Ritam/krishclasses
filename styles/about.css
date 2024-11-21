@@ -65,7 +65,7 @@ ul
 p
 {
 	font-family: 'Montserrat', sans-serif;
-	font-size: 14px;
+	font-size: 11px;
 	line-height: 2.14;
 	font-weight: bold;
 	color: #6c6a74;
@@ -112,7 +112,7 @@ p a:hover::after
 }
 ::selection
 {
-	background: #ff8a00;
+	background: #3B82F6;
 	color: #FFFFFF;
 }
 p::selection
@@ -985,10 +985,12 @@ section
 	font-size: 36px;
 	font-weight: 700;
 	color: #44425a;
+	text-align: center;
 }
 .about_text
 {
-	margin-top: 61px;
+	margin-top: 35px;
+	text-align: center;
 }
 
 /*********************************
@@ -1151,8 +1153,8 @@ section
 {
 	width: 100%;
 	background: #f2f1f8;
-	padding-top: 108px;
-	padding-bottom: 90px;
+	padding-top: 60px;
+	padding-bottom: 40px;
 }
 .footer .logo_container
 {
